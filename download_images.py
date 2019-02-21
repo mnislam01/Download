@@ -81,7 +81,7 @@ if __name__ == '__main__':
 
 
     #Give the EXACT name of text file
-    text_file = 'iamges.txt'
+    text_file = 'images.txt'
     #Give a name for image folder
     folder_name = 'images'
     
