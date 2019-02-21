@@ -1,4 +1,4 @@
-# Interview-step-two
+# Python image downlaod
 
 To begin requires
 - an active internet connection
